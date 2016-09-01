@@ -12,4 +12,6 @@ Currently support Features
 * Display car's average Km/L
 
 ### Credit
-Developed by Sample
+Developed by Sample.
+
+Modified: September 1, 2016.
