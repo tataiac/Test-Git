@@ -13,5 +13,4 @@ Currently support Features
 
 ### Credit
 Developed by Sample.
-
-Modified: September 1, 2016.
+Last Modified: September 1, 2016.
