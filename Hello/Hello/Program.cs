@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace Hello {
   class Program {
     static void Main(string[] args) {
-      Console.WriteLine("Hello, World!");
+      Console.WriteLine("Your name: ");
+      string name = Console.ReadLine();
+      Console.WriteLine($"Hello, {name}.");
     }
   }
 }
