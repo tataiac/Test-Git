@@ -13,3 +13,5 @@ Currently support Features
 
 ### Credit
 Developed by Sample
+
+Modified: Sep 1, 2016.
